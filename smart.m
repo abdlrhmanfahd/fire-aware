@@ -1,7 +1,7 @@
 clc; clear; close all;
 
-botToken = '7498768352:AAHitx80pBK36u3RkWoXQXBMnKCZRinCmes'; 
-chatID = '1781467825';
+botToken = 'your bot token here'; 
+chatID = 'your chatID here';
 
 fs = 1;  % Sampling frequency (1 Hz)
 simTime = 30;  % Simulation duration (seconds)
